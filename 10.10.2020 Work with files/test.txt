@@ -1,0 +1,5 @@
+This file was created for test this programm
+A bit data
+12345
+test
+I must copy all this data to another file
