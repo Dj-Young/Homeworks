@@ -65,7 +65,7 @@ void main()
 		}
 	}
 
-
+	delete[] tmp_mas;
 	delete[] pre_line;
 	delete[] new_line;
 }
