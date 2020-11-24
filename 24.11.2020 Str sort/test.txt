@@ -1,0 +1,10 @@
+aaa
+bbb
+abc
+bca
+bab
+aar
+rab
+dol
+lom
+rest
